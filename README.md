@@ -1,4 +1,4 @@
-# <b>ᏒΞᎠFOX</b>
+# <b>ᗰᗩᒪᒪᑌ ᗰOᐯIE</b>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+ᏒΞᎠFOX!;created+by+𝐀𝐚𝐝𝐡𝐢!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+other+features!)
  ⚚ ℭ𝔩𝔦𝔠𝔨 𝔗𝔥𝔢 ℑ𝔪𝔞𝔤𝔢 𝔗𝔬 𝔇𝔢𝔭𝔩𝔬𝔶 𝔜𝔬𝔲𝔯 𝔄𝔭𝔭 ⚚
 
