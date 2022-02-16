@@ -5,19 +5,7 @@
 
 [![Deploy](https://telegra.ph/file/006bd3b5fa382e587a2a3.jpg)](https://heroku.com/deploy?template=https://github.com/yadhukrishanyadhukrishan/pm)
 
-- [x] Auto Filter
-- [x] Manuel Filter
-- [x] IMDB
-- [x] Admin Commands
-- [x] Broadcast
-- [x] Index
-- [x] IMDB search
-- [x] Fun mode
-- [x] Inline Search
-- [x] Random pics
-- [x] ids and User info 
-- [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
-
+- 
 
 
 <h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋<img align="center" src="https://github.com/Aadhi000/Red-Foxx/blob/main/assets/Handshake.gif" height="33px" /></h3>
